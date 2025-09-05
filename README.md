@@ -36,7 +36,7 @@ AIを活用して生成したコードを、一般社団法人 美波御塩が�
 
 ## 🚀 使い方（利用者向け）
 
-1. 公開版（https://minamigoen.github.io/MinamiGo/）を開く  
+1. 公開版（[MinamiGo 公開版](https://minamigoen.github.io/MinamiGo/)）を開く
 2. **「現在地を表示」** で周辺のお店を確認  
 3. **「リスト表示に切替」** で一覧表示に変更  
 4. よく使う場合は **ホーム画面に追加** すると便利（PWA対応）
