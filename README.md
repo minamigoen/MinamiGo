@@ -3,9 +3,6 @@
 **美波町の飲食店・観光スポット検索アプリ（PWA対応）**  
 AIを活用して生成したコードを、一般社団法人 美波御塩が公開しています。
 
-※この仕組みはGoogleGemini公式noteで紹介していただきました。
-https://note.com/google_gemini/n/nec0800699ec3
-
 - 🗺️ 現在地から周辺スポットを検索  
 - 📃 地図表示／リスト表示を切り替え  
 - 📲 スマホのホーム画面に追加してアプリ風に利用（PWA対応）  
@@ -104,3 +101,5 @@ const CONFIG = {
 ## 🔗 関連リンク
 - プロジェクトの背景や詳細ストーリーは、こちらのnote記事をご覧ください  
   👉 https://note.com/_cop/n/n07e509067b73
+- この仕組みはGoogleGemini公式noteで紹介していただきました。
+  📒 https://note.com/google_gemini/n/nec0800699ec3
