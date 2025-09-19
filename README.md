@@ -101,5 +101,5 @@ const CONFIG = {
 ## 🔗 関連リンク
 - プロジェクトの背景や詳細ストーリーは、こちらのnote記事をご覧ください  
   👉 https://note.com/_cop/n/n07e509067b73
-- この仕組みはGoogleGemini公式noteで紹介していただきました。
+- この仕組みはGoogleGemini公式noteで紹介していただきました  
   📒 https://note.com/google_gemini/n/nec0800699ec3
